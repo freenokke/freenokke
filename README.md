@@ -11,6 +11,6 @@ I'am happy to see you on my GitHub profile. If you wanna contact me you can do t
 * [Async Race](https://github.com/freenokke/2022Q1_RS/tree/async-race).
 * [Online Store](https://github.com/freenokke/2022Q1_RS/tree/online-store).
 * [Virtual Keyboard](https://github.com/freenokke/RSS-Virtual-Keyboard).
-* [Shelter](https://github.com/freenokke/2022Q1_RS/blob/shelter-part3).
+* [Shelter](https://github.com/freenokke/2022Q1_RS/tree/shelter-part3).
 
 
