@@ -4,3 +4,21 @@
 
 I'am happy to see you on my GitHub profile. If you wanna contact me you can do that via Linkedin link located under the profile photo
 
+<details>
+ <summary>Projects</summary>
+  <details>
+    <summary>Project Managment App</summary>
+    [Deploy](https://project-management-app2.netlify.app/)
+    [Repo](https://github.com/freenokke/project-managment-app)
+    
+    Description: cffgfkgfjkgfkgjfgjfkjgfkgjfkjgfkjgfjgfkjgfkj
+    
+  </details>
+  <details>
+    <summary>Project 2</summary>
+    Deploy:
+    
+    Description: 
+  </details>
+</details>
+
