@@ -8,7 +8,7 @@ I'am happy to see you on my GitHub profile. If you wanna contact me you can do t
  <summary>Projects</summary>
   <details>
     <summary>Project Managment App</summary>
-    [Deploy](https://project-management-app2.netlify.app/)
+    [https://project-management-app2.netlify.app/](Deploy)
     [Repo](https://github.com/freenokke/project-managment-app)
     
     Description: cffgfkgfjkgfkgjfgjfkjgfkgjfkjgfkjgfjgfkjgfkj
